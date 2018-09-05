@@ -17,7 +17,7 @@ var dir = '/';
 
 // console.log(files);
 
-const Logger = require('./logger');
+const Logger = require('./logger');  // This is a conflicting comment for Feature-4
 const logger = new Logger();
 
 
