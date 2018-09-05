@@ -19,7 +19,7 @@ var dir = '/';
 
 // console.log(files);
 
-const Logger = require('./logger');  // added a comment as part of Feature-3
+const Logger = require('./logger');  // added a comment as part of Feature-3 and Feature-4 after merging manually
 const logger = new Logger();
 
 
