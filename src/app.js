@@ -1,4 +1,6 @@
 
+// this version is for Feature-3
+
 // this is being added for feature 2 branch.
 // console.log(module);
 
@@ -17,7 +19,7 @@ var dir = '/';
 
 // console.log(files);
 
-const Logger = require('./logger');
+const Logger = require('./logger');  // added a comment as part of Feature-3
 const logger = new Logger();
 
 
